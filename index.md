@@ -20,7 +20,7 @@ In thinking about how to create a successful online course for Hawaii residents,
 
 *Notifications*.  Besides delivering content regarding climate change, the app can also provide notifications of important upcoming events. Note that these notifications can be customized based upon the island (location) and the user demographic. For example, the [Climate Strike held on March 19, 2019](https://www.theguardian.com/environment/2019/mar/19/school-climate-strikes-more-than-1-million-took-part-say-campaigners-greta-thunberg) would be appropriate to send to elementary, middle, and high school students.  Other events, such as the [ISR climate change seminar](https://uhero.hawaii.edu/145), would be most appropriate for college students on oahu.
 
-*Privacy*. It might be appropriate to not request any information from users, at least initially.  Location and demographic information can be stored on the device and not communicated to the central server.  It might be necessary to ask for identifying information such as their address if we mail them stickers or some other game prize. 
+*Privacy*. It might be appropriate to not request any information from users, at least initially.  Location and demographic information can be stored on the device and not communicated to the central server.  It might be necessary to ask for identifying information such as their address if we mail them stickers or some other game prize.
 
 I chose "ClimateGameChanger" as the working title for this project because it is a portmanteau of "Climate Change" and the expression "game changer". It has a hopeful sound to it, which I think is good, although I believe that if this project is successful, the game changing aspect will not be with respect to the degree of climate change, over which we have little control, but with respect to the investment of time, money, and resources into preparation for the impact of climate change. Of course, it also has the word "game" in it, which I hope might make the educational mission a little more palatable.
 
@@ -31,6 +31,8 @@ There are two loosely coupled design problems for this project. The first is the
 As a first step toward defining the content, I have created a website with a first pass at a curriculum, structured as a set of modules, outcomes, readings, experiences, and assessments.  The goal of the curriculum website is to provide an organizing framework, although I expect the current content to be modified drastically once more people are involved.  Once we have made progress toward the desired curriculum, we will hopefully have a better idea about an appropriate pedagogy.
 
 The curriculum website is available at [http://climategamechanger.github.io/curriculum](http://climategamechanger.github.io/curriculum).
+
+As a first step toward defining the pedagogy, I've created a [short white paper proposing a set of game mechanics](http://bit.ly/2HCMv58). Your comments and suggestions are welcomed.
 
 
 
